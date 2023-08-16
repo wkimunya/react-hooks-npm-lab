@@ -1,0 +1,29 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "An introduction to npm and package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme.git"
+  },
+  "keywords": [
+    "My",
+    "new",
+    "project"
+  ],
+  "author": "Wilson Wachira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "serve": "^14.2.0"
+  }
+}
